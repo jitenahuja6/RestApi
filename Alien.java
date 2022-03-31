@@ -46,7 +46,7 @@ public class Alien implements Serializable
 	public String toString() {
 		return "Alien [name=" + name + ", points=" + points + ", id=" + id + "]";
 	}
-	
+	Checking git merge
 	
 	
 }
