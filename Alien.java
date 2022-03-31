@@ -47,6 +47,6 @@ public class Alien implements Serializable
 		return "Alien [name=" + name + ", points=" + points + ", id=" + id + "]";
 	}
 	
-	
+	bla bla
 	
 }
