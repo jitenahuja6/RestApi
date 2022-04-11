@@ -25,7 +25,7 @@ public class MyResource {
 	 	@Produces(MediaType.TEXT_PLAIN)
 	    public String getMsg()
 	    {
-	         return "Hello World !! - Jersey 2";
+	         return "Hello World !! - Jersey 2 just checking";
 	    }
 }
 
